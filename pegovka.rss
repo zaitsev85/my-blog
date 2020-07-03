@@ -1,0 +1,27 @@
+<rss version='2.0'>
+<channel>
+  <title>Waves from Pegovka Observatory</title>
+  <link>https://pegovka.space/</link>
+  <description>Astronomer Ivan Zaytsev personal blog</description>
+  <lastBuildDate>Fri, 03 Jul 2020 07:10:56 GMT</lastBuildDate>
+  <generator>pegovka.space</generator>
+ 
+  <image>
+    <url>https://pegovka.space/og-image.png</url>
+    <title>Waves from Pegovka Observatory</title>
+    <link>https://pegovka.space/</link>
+    <width>100</width>
+    <height>100</height>
+  </image>
+
+<item>
+  <guid isPermaLink='true'>https://pegovka.space/#/post/1024</guid>
+  <pubDate>Fri, 03 Jul 2020 07:10:56 GMT</pubDate>
+  <title>A Personal Appeal to Scientists and Engineers From All Over the World</title>
+  <author>Ivan Zaitsev</author><link>https://pegovka.space/#/post/1024</link>
+  <description><![CDATA[<span><iframe src="https://www.youtube.com/embed/EjL-5EuQeCU" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></span><p> Hello.</p><p>My name is Ivan Zaitsev. I'm a staff astronomer at Pegovka observatory in the Urals region of Russia.</p><p>Several days ago we have been monitoring radio signals from a small region of sky around <a target="_blank" href="http://simbad.u-strasbg.fr/simbad/sim-id?Ident=HD+190360">HD 190360</a> for our exoplanet research purposes. We have registered a peculiar radio transmission which cannot be attributed to any natural source in this area.</p><p>We tried to analyze and decode this message. But we don't have any trained deciphering specialists here on site, and we don't have appropriate software to analyze this message. We have made very little progress so far.</p><p>I believe that decoding this message can lead to a major breakthrough in our understanding of the Universe. I believe that science should be a joint effort. Together we can crack this problem much faster that any single research group.</p><p>That's why I decided to publish a <a target="_blank" href="https://message-from-space.readthedocs.io/en/latest/_downloads/822b494d13eb35a97f159e041a004fa9/radio-transmission-recording.wav">recording of this message</a> and create a <a target="_blank" href="https://message-from-space.readthedocs.io/en/latest/radio-transmission-recording.html">special documentation page</a> to collaborate on the explanation.</p><p>If you have any idea at all on how to decode and explain the message, please send a Pull Request to the <a target="_blank" href="https://github.com/zaitsev85/message-from-space/blob/master/source/radio-transmission-recording.rst">appropriate page</a>! We cannot move forward without this!</p><p>Sincerely,
+                        Ivan Zaitsev</p><p>P.S. Don't hesitate to join my personal <a target="_blank" href="https://discord.gg/xvMJbas">chat server</a> to combine our efforts in the spirit of open scientific collaboration.</p>]]></description>
+</item>
+
+  </channel>
+</rss>
