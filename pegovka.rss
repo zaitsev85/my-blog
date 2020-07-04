@@ -3,7 +3,7 @@
     <title>Waves from Pegovka Observatory</title>
     <link>https://pegovka.space/</link>
     <description>Astronomer Ivan Zaytsev personal blog</description>
-    <lastBuildDate>Fri, 03 Jul 2020 07:10:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2020 13:02:34 GMT</lastBuildDate>
     <generator>pegovka.space</generator>
     
     <image>
@@ -14,6 +14,16 @@
     <height>100</height>
     </image>
 
+    <item>
+      <guid isPermaLink='true'>https://pegovka.space/#/post/1025</guid>
+      <pubDate>Sat, 04 Jul 2020 13:02:34 GMT</pubDate>
+      <title>One Small Step for Scientists and Engineers, a Giant Leap for Mankind</title>
+      <author>Ivan Zaitsev</author><link>https://pegovka.space/#/post/1025</link>
+      <description><![CDATA[
+      <span><iframe src="https://www.youtube.com/embed/j7kVUaZCcMU" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></span><p> Hi.</p><p>Yesterday I posted a video asking for your help deciphering a strange radio signal from space. Thanks to my friends from the <a target="_blank" href="https://twitter.com/icfpcontest2020/status/1278965948461056000">ICFP Contest</a>, it was a tremendous success.</p><p>With help from enthusiasts all over the world we were able to make <a target="_blank" href="https://message-from-space.readthedocs.io/en/latest/radio-transmission-recording.html">great progress</a> in understanding the message. Thank you very much to all the participants!</p><p>First of all, we understand that the signal is probably a sequence of frequency-encoded ones and zeroes. When arranged into a particular two-dimensional grid they look like a picture that makes sense to a human eye!</p><p><img alt="transmission signal in 2d" src="https://pegovka.space/radio-transmission-2d.png"></p><p>Second, we have some theories on how to interpret this picture. It looks like a binary encoding of numbers from 1 to 8 that follows a regular pattern that can be extended further to construct any natural number. However, we don’t have any hard data to support our construction…</p><p><img alt="how to encode numbers" src="https://pegovka.space/numbers-encoding4.png"></p><p>Okay, here is the exciting part! I just got a second message! I’m going to apply the code I got from you yesterday to convert this second signal into a picture. I’ll post this picture to <a target="_blank" href="https://message-from-space.readthedocs.io/en/latest/message2.html">a separate page</a> in our documentation so we can collaborate on the explanation.</p><p>So excited! Can’t wait to <a target="_blank" href="https://discord.gg/xvMJbas">work with you</a> once again!</p>
+      ]]></description>
+    </item>
+    
     <item>
       <guid isPermaLink='true'>https://pegovka.space/#/post/1024</guid>
       <pubDate>Fri, 03 Jul 2020 07:10:56 GMT</pubDate>
