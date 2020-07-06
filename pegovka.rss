@@ -3,7 +3,7 @@
     <title>Waves from Pegovka Observatory</title>
     <link>https://pegovka.space/</link>
     <description>Astronomer Ivan Zaytsev personal blog</description>
-    <lastBuildDate>Sat, 04 Jul 2020 13:02:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2020 13:03:34 GMT</lastBuildDate>
     <generator>pegovka.space</generator>
     
     <image>
@@ -15,10 +15,20 @@
     </image>
 
     <item>
-      <guid isPermaLink='true'>https://pegovka.space/#/post/1025</guid>
+      <guid isPermaLink='true'>https://pegovka.space/#/post/1027</guid>
+      <pubDate>Mon, 06 Jul 2020 13:03:30 GMT</pubDate>
+      <title>Not a Distant Planet?</title>
+      <author>Ivan Zaitsev</author><link>https://pegovka.space/#/post/1027</link>
+      <description><![CDATA[
+      <p>Today I’ve got good news and also somewhat worrying news for you.</p><p>First, there is a transmission. Posted to <a target="_blank" href="https://message-from-space.readthedocs.io/en/latest/message4.html">docs</a>, as always. Some new glyphs for you to decipher.</p><p>Second, I think we have something to worry about. There is a strong suspicion among my colleagues that this signal comes not from a distant planet at all. We will thoroughly investigate this and try to eliminate possible terrestrial and low-orbit sources of this signal. I’ll get back to you with more details later.</p>
+      ]]></description>
+    </item>
+    
+    <item>
+      <guid isPermaLink='true'>https://pegovka.space/#/post/1026</guid>
       <pubDate>Sun, 05 Jul 2020 13:00:09 GMT</pubDate>
       <title>Once Is Luck, Twice Is Coincidence, Three Times Is a Pattern</title>
-      <author>Ivan Zaitsev</author><link>https://pegovka.space/#/post/1025</link>
+      <author>Ivan Zaitsev</author><link>https://pegovka.space/#/post/1026</link>
       <description><![CDATA[
       <p>Not entirely unexpected, we got a third message today. I’ve already posted it to our <a target="_blank" href="https://message-from-space.readthedocs.io/en/latest/message3.html">documentation page</a>. Can somebody take a look?</p><p>Feels like this is not the last one. What’s weird: we get these transmissions precisely at the same time each day, <strong>around 12:45 UTC</strong>. It’s almost like whatever sends them knows about us, and our planet is the intended target of these messages. Otherwise, why would timing of these messages be synchronized to the rotation of our planet?</p><p>I’ll be monitoring our radiotelescope carefully during the same time window tomorrow, expecting more answers from the Universe.</p><p>Join me in our <a target="_blank" href="https://discord.gg/xvMJbas">Discord chat</a> to share your ideas and interpretations!</p>
       ]]></description>
