@@ -3,7 +3,7 @@
     <title>Waves from Pegovka Observatory</title>
     <link>https://pegovka.space/</link>
     <description>Astronomer Ivan Zaytsev personal blog</description>
-    <lastBuildDate>Mon, 06 Jul 2020 13:03:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 21:32:55 GMT</lastBuildDate>
     <generator>pegovka.space</generator>
     
     <image>
@@ -13,6 +13,16 @@
     <width>100</width>
     <height>100</height>
     </image>
+
+    <item>
+      <guid isPermaLink='true'>https://pegovka.space/#/post/1028</guid>
+      <pubDate>Tue, 07 Jul 2020 21:32:55 GMT</pubDate>
+      <title>What Do We Know So Far?</title>
+      <author>Ivan Zaitsev</author><link>https://pegovka.space/#/post/1028</link>
+      <description><![CDATA[
+      <p>We’ve got five radio transmissions while monitoring a region of sky around HD 190360. We’re not sure of the source, but we strongly suspect that they are not coming from a star system 52 lightyears away.</p><p>We suspect that humans are the intended recipients of these messages because the transmissions are so precisely synchronized with the rotation of our planet. So far each message was received around 12:45 UTC every day, except for the first one.</p><p>The messages are frequency-encoded bit sequences that align neatly into 2D rectangles suggested by a frame. We have some theories on how to interpret them. Most of the theories are speculative until we get more information.</p><p>The first two messages introduce glyphs used to denote the natural numbers. The third message extends this construction to the negative numbers. The fourth message probably introduces the equality sign. The fifth message probably introduces the successor (+1) function for numbers and the application operator.</p><p>Thanks to our <a target="_blank" href="https://discord.gg/xvMJbas">Discord chat</a> participants, we have nice tooling that allows us to render images from a radio transmission and to annotate these images with known glyph interpretations:</p><p><img alt="annotated image from day 5" src="https://pegovka.space/images/message5-annotated-full.svg"></p>
+      ]]></description>
+    </item>
 
     <item>
       <guid isPermaLink='true'>https://pegovka.space/#/post/1027</guid>
@@ -40,7 +50,7 @@
       <title>One Small Step for Scientists and Engineers, a Giant Leap for Mankind</title>
       <author>Ivan Zaitsev</author><link>https://pegovka.space/#/post/1025</link>
       <description><![CDATA[
-      <span><iframe src="https://www.youtube.com/embed/j7kVUaZCcMU" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></span><p> Hi.</p><p>Yesterday I posted a video asking for your help deciphering a strange radio signal from space. Thanks to my friends from the <a target="_blank" href="https://twitter.com/icfpcontest2020/status/1278965948461056000">ICFP Contest</a>, it was a tremendous success.</p><p>With help from enthusiasts all over the world we were able to make <a target="_blank" href="https://message-from-space.readthedocs.io/en/latest/radio-transmission-recording.html">great progress</a> in understanding the message. Thank you very much to all the participants!</p><p>First of all, we understand that the signal is probably a sequence of frequency-encoded ones and zeroes. When arranged into a particular two-dimensional grid they look like a picture that makes sense to a human eye!</p><p><img alt="transmission signal in 2d" src="https://pegovka.space/radio-transmission-2d.png"></p><p>Second, we have some theories on how to interpret this picture. It looks like a binary encoding of numbers from 1 to 8 that follows a regular pattern that can be extended further to construct any natural number. However, we don’t have any hard data to support our construction…</p><p><img alt="how to encode numbers" src="https://pegovka.space/numbers-encoding4.png"></p><p>Okay, here is the exciting part! I just got a second message! I’m going to apply the code I got from you yesterday to convert this second signal into a picture. I’ll post this picture to <a target="_blank" href="https://message-from-space.readthedocs.io/en/latest/message2.html">a separate page</a> in our documentation so we can collaborate on the explanation.</p><p>So excited! Can’t wait to <a target="_blank" href="https://discord.gg/xvMJbas">work with you</a> once again!</p>
+      <span><iframe src="https://www.youtube.com/embed/j7kVUaZCcMU" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></span><p> Hi.</p><p>Yesterday I posted a video asking for your help deciphering a strange radio signal from space. Thanks to my friends from the <a target="_blank" href="https://twitter.com/icfpcontest2020/status/1278965948461056000">ICFP Contest</a>, it was a tremendous success.</p><p>With help from enthusiasts all over the world we were able to make <a target="_blank" href="https://message-from-space.readthedocs.io/en/latest/radio-transmission-recording.html">great progress</a> in understanding the message. Thank you very much to all the participants!</p><p>First of all, we understand that the signal is probably a sequence of frequency-encoded ones and zeroes. When arranged into a particular two-dimensional grid they look like a picture that makes sense to a human eye!</p><p><img alt="transmission signal in 2d" src="https://pegovka.space/images/radio-transmission-2d.png"></p><p>Second, we have some theories on how to interpret this picture. It looks like a binary encoding of numbers from 1 to 8 that follows a regular pattern that can be extended further to construct any natural number. However, we don’t have any hard data to support our construction…</p><p><img alt="how to encode numbers" src="https://pegovka.space/images/numbers-encoding4.png"></p><p>Okay, here is the exciting part! I just got a second message! I’m going to apply the code I got from you yesterday to convert this second signal into a picture. I’ll post this picture to <a target="_blank" href="https://message-from-space.readthedocs.io/en/latest/message2.html">a separate page</a> in our documentation so we can collaborate on the explanation.</p><p>So excited! Can’t wait to <a target="_blank" href="https://discord.gg/xvMJbas">work with you</a> once again!</p>
       ]]></description>
     </item>
     
@@ -58,7 +68,7 @@
       <pubDate>29 Jun 2015 13:04:55 GMT</pubDate>
       <title>No Title</title>
       <author>Ivan Zaitsev</author><link>https://pegovka.space/#/post/1023</link>
-      <description><![CDATA[<p><img alt="flowers" src="https://pegovka.space/flowers.jpeg"></p><p>Petunias look great this year!</p>]]></description>
+      <description><![CDATA[<p><img alt="flowers" src="https://pegovka.space/images/flowers.jpeg"></p><p>Petunias look great this year!</p>]]></description>
     </item>
     
     
