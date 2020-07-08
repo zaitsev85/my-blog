@@ -3,7 +3,7 @@
     <title>Waves from Pegovka Observatory</title>
     <link>https://pegovka.space/</link>
     <description>Astronomer Ivan Zaytsev personal blog</description>
-    <lastBuildDate>Tue, 07 Jul 2020 21:32:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2020 13:00:01 GMT</lastBuildDate>
     <generator>pegovka.space</generator>
     
     <image>
@@ -13,6 +13,16 @@
     <width>100</width>
     <height>100</height>
     </image>
+
+    <item>
+      <guid isPermaLink='true'>https://pegovka.space/#/post/1029</guid>
+      <pubDate>Tue, 08 Jul 2020 13:00:01 GMT</pubDate>
+      <title>The Origin Is Still Unknown</title>
+      <author>Ivan Zaitsev</author><link>https://pegovka.space/#/post/1029</link>
+      <description><![CDATA[
+      <p>We’ve checked the specifications of each piece of our radio equipment and analyzed the archives of our observations for the past five years. We found nothing that would support our suspicion of a terrestrial origin of the signal.</p><p>We’ve also consulted with several computer security specialists and checked the raw telescope data to rule out malicious hacker activity. So far our investigation results support the extraterrestrial origin theory.</p><p>Our research group will continue the investigation. Meanwhile, <a target="_blank" href="https://discord.gg/xvMJbas">join us</a> in dechipering <a target="_blank" href="https://message-from-space.readthedocs.io/en/latest/message6.html">today’s message</a>.</p>
+      ]]></description>
+    </item>
 
     <item>
       <guid isPermaLink='true'>https://pegovka.space/#/post/1028</guid>
