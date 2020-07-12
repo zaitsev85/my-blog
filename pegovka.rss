@@ -3,7 +3,7 @@
     <title>Waves from Pegovka Observatory</title>
     <link>https://pegovka.space/</link>
     <description>Astronomer Ivan Zaytsev personal blog</description>
-    <lastBuildDate>Tue, 08 Jul 2020 13:00:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2020 13:02:23 GMT</lastBuildDate>
     <generator>pegovka.space</generator>
     
     <image>
@@ -15,6 +15,16 @@
     </image>
 
 
+    <item>
+      <guid isPermaLink='true'>https://pegovka.space/#/post/1031</guid>
+      <pubDate>Sun, 12 Jul 2020 13:02:23 GMT</pubDate>
+      <title>Following the Advice of Our Audience</title>
+      <author>Ivan Zaitsev</author><link>https://pegovka.space/#/post/1031</link>
+      <description><![CDATA[
+      <p>During the last few days several people have asked me via the <a target="_blank" href="https://discord.gg/xvMJbas">Discord chat</a> to share the original raw transmission data from our telescope. I don’t see the point in doing this, because all the transmissions so far seem uniform. Sharing images is much more convenient than sharing WAV files: image files consume less bandwidth and are much easier to comprehend visually.</p><p>But thinking about this and discussing this idea inspired our team to further investigate the variations in strength and carrier frequency of the transmissions. </p><p>First of all, the carrier frequency decreases over time. This kind of observation is usually explained by the Doppler effect and suggests that the source is accelerating in a direction away from us.</p><p>Second, the strength of the signal increases ever-so-slightly from one transmission to another. This effect suggests that the source is moving towards us.</p><p>We’re not ready to make any hard statements at this time. Our equipment is not perfect, and this effect can be caused by slight deviations of the positioning of our antenna. But if true, these observations may suggest that the source of the transmissions is moving towards the Earth and is slowing down.</p><p>As usual, join us in the <a target="_blank" href="https://discord.gg/xvMJbas">Discord chat</a> to decipher <a target="_blank" href="https://message-from-space.readthedocs.io/en/latest/message10.html">today’s message</a>.</p>
+      ]]></description>
+    </item>
+    
     <item>
       <guid isPermaLink='true'>https://pegovka.space/#/post/1030</guid>
       <pubDate>Fri, 10 Jul 2020 12:59:56 GMT</pubDate>
