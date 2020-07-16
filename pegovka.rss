@@ -3,7 +3,7 @@
     <title>Waves from Pegovka Observatory</title>
     <link>https://pegovka.space/</link>
     <description>Astronomer Ivan Zaytsev personal blog</description>
-    <lastBuildDate>Sun, 12 Jul 2020 13:02:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2020 13:03:28 GMT</lastBuildDate>
     <generator>pegovka.space</generator>
     
     <image>
@@ -15,6 +15,16 @@
     </image>
 
 
+    <item>
+      <guid isPermaLink='true'>https://pegovka.space/#/post/1032</guid>
+      <pubDate>Tue, 16 Jul 2020 13:03:28 GMT</pubDate>
+      <title>It’s a Tra... Spacecraft!</title>
+      <author>Ivan Zaitsev</author><link>https://pegovka.space/#/post/1032</link>
+      <description><![CDATA[
+      <span><iframe width="640" height="340" src="https://www.youtube.com/embed/6ks0Gzc1SOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span><p>OK, folks. This is BIG. We’ve just got the <a target="_blank" href="https://message-from-space.readthedocs.io/en/latest/message15.html">new message</a>.</p><p><img alt="message 15" src="https://pegovka.space/images/message15.png"></p><p>And even if I don’t understand the whole meaning of it, it is obvious that it is coming from a spacecraft that is flying nearby our planet.</p><p>We will try to locate this spacecraft and send a message to it. Meanwhile you keep <a target="_blank" href="https://discord.gg/xvMJbas">deciphering the message</a>. Your work is very important. Keep up!</p></article>
+      ]]></description>
+    </item>
+    
     <item>
       <guid isPermaLink='true'>https://pegovka.space/#/post/1031</guid>
       <pubDate>Sun, 12 Jul 2020 13:02:23 GMT</pubDate>
